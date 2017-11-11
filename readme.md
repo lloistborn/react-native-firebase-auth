@@ -1,4 +1,4 @@
-# react-native-firabse-auth
+# react-native-firebase-auth
 ### React Native - Authentication using Firebase Auth
 React Native login form authentication using Firebase auth to access user credentials
 
